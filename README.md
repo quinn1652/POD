@@ -5,6 +5,12 @@ Contributors:
 -Jesse Kline
 -Emily Wright
 -Kanghui Liu
+-Jose Avalos
+-Idil Hershi
+-Jordan Hill
+-Ryan Erickson
+-Trent Macomber
+-Wes Kennedy
 
 Description:
 This is an enclosed device meant for biological experiments on plants based
